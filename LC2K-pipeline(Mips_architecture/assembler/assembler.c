@@ -91,7 +91,7 @@ int main(int argc, char * argv[]) {
 
 	line_cnt = -1;
 	//----------내가 고생하는 부분 ↓ -------------------
-	//처음부터 읽으면서 숫자 집어넣장 호잇호잇
+	//처음부터 읽으면서 숫자 집어넣장 
 	//here is an example for how to use readAndParseto read a line from in FilePtr
 	while (true) {
 		line_cnt++;
